@@ -49,6 +49,12 @@
         "projectId": "2b76a151-133f-4de8-bf9d-f8d24bfb6122"
       }
     },
-    "owner": "rockie2695"
+    "owner": "rockie2695",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/2b76a151-133f-4de8-bf9d-f8d24bfb6122"
+    }
   }
 }
